@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @autumn-austin
 - 👀 I’m interested in software and gaming development!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, HTML, CSS, & SQL!
 - 📫 How to reach me: a.austin0119@gmail.com
 
 <!---
