@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @autumn-austin
-- 👀 I’m interested in software and gaming development!
+- 👀 I’m interested in web development and web design!
 - 🌱 I’m currently learning C#, HTML, CSS, Unity, & JavaScript!
 - 📫 How to reach me: a.austin0119@gmail.com
 
